@@ -1,11 +1,3 @@
-//
-//  GameViewController.swift
-//  swiftris
-//
-//  Created by Rahel Lüthy on 05/08/14.
-//  Copyright (c) 2014 Netzwerg. All rights reserved.
-//
-
 import UIKit
 import SpriteKit
 
